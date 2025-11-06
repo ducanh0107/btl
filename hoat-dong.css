@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #f3f9f4;
+  color: #333;
+  margin: 0;
+}
+
+header {
+  background-color: #388e3c;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  color: #2e7d32;
+}

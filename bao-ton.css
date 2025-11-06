@@ -1,0 +1,27 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #eef8f0;
+  margin: 0;
+}
+
+header {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background: #fff;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #2e7d32;
+}
